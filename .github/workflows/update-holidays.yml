@@ -1,6 +1,9 @@
 name: update-holidays
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # 每月 1 日 03:23 UTC（北京时间 11:23）自动运行
     - cron: '23 3 1 * *'
