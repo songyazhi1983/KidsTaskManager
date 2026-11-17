@@ -1,0 +1,7 @@
+{
+  "notice": "",
+  "chargingEnabled": false,
+  "premiumFeatures": ["lyric", "welcome", "gift", "reply"],
+  "trialDays": 7,
+  "minVersionCode": 0
+}
